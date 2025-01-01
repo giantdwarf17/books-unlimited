@@ -1,0 +1,98 @@
+{
+	"new": [
+		{
+			"id": 100,
+			"title": "In Too Deep: A Reacher Novel",
+			"author": "Lee Child, Andrew Child",
+			"isbn": "9780593725801"
+		},
+		{
+			"id": 101,
+			"title": "The Striker",
+			"author": "Ana Huang",
+			"isbn": "9781464236730"
+		},
+		{
+			"id": 102,
+			"title": "Spectacular: A Caraval Holiday Novella",
+			"author": "Stephanie Garber, Rosie Thorns (Illustrator)",
+			"isbn": "9781250368690"
+		},
+		{
+			"id": 103,
+			"title": "Hot Mess (Diary of a Wimpy Kid #19)",
+			"author": "Jeff Kinney",
+			"isbn": "9781419766954"
+		},
+		{
+			"id": 104,
+			"title": "Framed: Astonishing True Stories of Wrongful Convictions",
+			"author": "John Grisham, Jim McCloskey",
+			"isbn": "9780385550444"
+		}
+	],
+	"best-sellers": [
+		{
+			"id": 105,
+			"title": "Onyx Storm",
+			"author": "Rebecca Yarros",
+			"isbn": "9781649374189"
+		},
+		{
+			"id": 106,
+			"title": "The Book of Bill",
+			"author": "Alex Hirsch",
+			"isbn": "9781368092203"
+		},
+		{
+			"id": 107,
+			"title": "Bonds of Hercules",
+			"author": "Jasmine Mas",
+			"isbn": "9781335499165"
+		},
+		{
+			"id": 108,
+			"title": "The Grey Wolf",
+			"author": "Louise Penny",
+			"isbn": "9781250328137"
+		},
+		{
+			"id": 109,
+			"title": "The Striker",
+			"author": "Ana Huang",
+			"isbn": "9781464236730"
+		}
+	],
+	"staff-picks": [
+		{
+			"id": 110,
+			"title": "The Last Murder at the End of the World",
+			"author": "Stuart Turton",
+			"isbn": "9781526634955"
+		},
+		{
+			"id": 111,
+			"title": "The Anthropocene Reviewed: Essays on a Human-Centered Planet",
+			"author": "John Green",
+			"isbn": "9780525555216"
+		},
+		{
+			"id": 112,
+			"title": "11/22/63",
+			"author": "Stephen King",
+			"isbn": "9781451627282"
+		},
+		{
+			"id": 113,
+			"title": "I'm Glad My Mom Died",
+			"author": "Jennette McCurdy",
+			"isbn": "9781982185824"
+		},
+		{
+			"id": 114,
+			"title": "Demon Copperhead",
+			"author": "Barbara Kingsolver",
+			"isbn": "9780063251922"
+		}
+	]
+}
